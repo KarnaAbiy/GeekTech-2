@@ -1,0 +1,16 @@
+.wline{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+#color{
+    width: 50px;
+    height: 50px;
+}
+button{
+    color: aquamarine;
+    background-color: rgb(24, 165, 172);
+    border: solid 1px;
+}
