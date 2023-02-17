@@ -1,0 +1,18 @@
+.first-one{
+    margin-bottom: 50px;
+}
+#xyblock{
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 20px;
+    background-color: rgb(140, 136, 136);
+    border: 5px solid black
+    
+}
+.third{
+    height: 50px;
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
